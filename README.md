@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Sajid miya
 
 <!---
 miyasajid19/miyasajid19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

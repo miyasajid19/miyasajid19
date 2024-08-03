@@ -71,3 +71,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=miyasajid19&show_icons=true&theme=transparent" alt="miyasajid19" style="margin-right: 20px"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miyasajid19&show_icons=true&locale=en&layout=compact" alt="miyasajid19" height="200px" />
 </p>
+  <h3>inspired by  <a href="https://github.com/SajjanKarn">Sajjan karn</a></h3>

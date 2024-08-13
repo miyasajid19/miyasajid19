@@ -11,7 +11,7 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **Python and C++.**
+- 🌱 I’m currently learning **C++.**
 
 - 👨‍💻 All of my projects are available at [https://sajidmiya.com.np](https://sajidmiya.com.np)
 

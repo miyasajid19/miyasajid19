@@ -22,10 +22,11 @@
   <a href="https://twitter.com/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miyasajid19" height="30" width="40" />
   </a>
-<!--   <a href="www.linkedin.com/in/sajidmiya" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miyasajid19" height="30" width="40" />
-  </a> -->
-  <a href="https://twitter.com/sajidmiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codersajjan" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/sajidmiya" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajjan-karna" height="30" width="40" />
+</a>
+
 
   <a href="https://instagram.com/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajjan.sh" height="30" width="40" />

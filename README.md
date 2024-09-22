@@ -69,9 +69,13 @@
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
   </a> 
 </p>
-
+<!--
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=miyasajid19&show_icons=true&theme=transparent" alt="miyasajid19" style="margin-right: 20px"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miyasajid19&show_icons=true&locale=en&layout=compact" alt="miyasajid19" height="200px" />
 </p>
-  <h3>inspired by  <a href="https://github.com/SajjanKarn">Sajjan karn</a></h3>
+  <h3>inspired by  <a href="https://github.com/SajjanKarn">Sajjan karn</a></h3>-->
+
+<p> <img src="https://github-readme-stats.vercel.app/api?username=miyasajid19&show_icons=true&theme=transparent" alt="GitHub Stats" height="200px"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miyasajid19&show_icons=true&layout=compact&theme=transparent" alt="Top Languages" height="200px" /> </p>
+  <h3 >Inspired by <a href="https://github.com/SajjanKarn">Sajjan Karn</a></h3>

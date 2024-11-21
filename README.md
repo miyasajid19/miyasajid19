@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sajid Miya</h1>
-<h3 align="center">A Computer Science and Engineering student from Nepal.</h3>
-
-<p align="left"> 
+<h3 align="center">A Computer Science and Engineering student from Nepal. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/2560px-Flag_of_Nepal.svg.png" alt="Nepal Flag" width="50" height="50"></h3>
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=miyasajid19&label=Profile%20views&color=0e75b6&style=flat" alt="miyasajid19" /> 
-    <img src="https://img.shields.io/github/followers/miyasajid19?style=social" alt="Followers Badge" />
+    <img src="https://img.shields.io/github/followers/miyasajid19?style=social" alt="Followers Badge" /> 
     <img src="https://img.shields.io/github/stars/miyasajid19?style=social" alt="Stars Badge" />
   
 </p>
@@ -13,10 +12,13 @@
   <img src="https://profile-counter.glitch.me/miyasajid19/count.svg" alt="Visitor Counter" />
 </div>
 
+
+  <!-- Contribution Graph -->
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=miyasajid19&theme=react-dark&bg_color=000000&color=00ff00&line=ff0000&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
-<p align="left"> 
+
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=miyasajid19" alt="miyasajid19" />
   </a> 
@@ -35,12 +37,12 @@
   </a>
 
 <a href="https://linkedin.com/in/sajidmiya" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajjan-karna" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajid miya" height="30" width="40" />
 </a>
 
 
   <a href="https://instagram.com/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajjan.sh" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajid miya" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="miyasajid19" height="30" width="40" />
@@ -101,14 +103,17 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=miyasajid19&show_icons=true&theme=radical" alt="GitHub Streak Stats" height="180px" />
   </p>
 
-  <!-- Contribution Graph -->
-
 
   <!-- Language and Commit Stats -->
-  <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miyasajid19&theme=github_dark" alt="Repos Per Language" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miyasajid19&theme=github_dark" alt="Most Commit Languages" />
-  </p>
+<!-- Language and Commit Stats with Percentage -->
+<h3 align="left">GitHub Stats:</h3>
+<p>
+  <!-- Repository Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miyasajid19&theme=github_dark" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miyasajid19&theme=github_dark" alt="Most Commit Languages" />
+
+</p>
+
 
 
 </div>
@@ -150,10 +155,10 @@
 <h2 align="center">💬 Dynamic Quotes 💬</h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&size=22&lines=Keep+coding!;Make+your+dream+projects+real!;" alt="Typing SVG" />
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=30&pause=1000&color=5BFF3E&center=true&vCenter=true&width=1000&height=60&lines=I'm+no+one...+I+don't+want+to+be+anyone.+;I+stepped+into+singularity+to+exist+within+a+void.+;I'm+no+one...+;However%2C+I+am+becoming...+Imagination.+;I+am+grabbing+conception%2C+and+leaving+humanity+behind.+;Humans+have+lost+their+sight%2C+and+;individuality+makes+people+blind+to+the+truth.;+It+makes+people+believe+that+anything+is+possible.+;Only+nothing+is+possible.+;But+then+again%2C+my+words+are+the+words+of+no+one." alt="Typing SVG" /></a></div>
 
 ---
 
 
   <h3 >Inspired by <a href="https://github.com/SajjanKarn">Sajjan Karn</a></h3>
+

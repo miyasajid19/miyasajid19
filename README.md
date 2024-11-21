@@ -76,6 +76,11 @@
 </p>
   <h3>inspired by  <a href="https://github.com/SajjanKarn">Sajjan karn</a></h3>-->
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=miyasajid19&show_icons=true&theme=transparent" alt="GitHub Stats" height="180px"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miyasajid19&show_icons=true&layout=compact&theme=transparent" alt="Top Languages" height="180px" /> </p>
+<h3 align="left">My GitHub Stats:</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miyasajid19&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miyasajid19&show_icons=true&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miyasajid19&show_icons=true&theme=radical" alt="Streak Stats" height="180px" />
+</div>
+  
   <h3 >Inspired by <a href="https://github.com/SajjanKarn">Sajjan Karn</a></h3>

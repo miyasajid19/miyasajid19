@@ -96,21 +96,9 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=miyasajid19&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miyasajid19&show_icons=true&layout=compact&theme=radical" alt="Top Languages" height="180px" />
-  </p>
-
-  <!-- Streak Stats -->
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miyasajid19&show_icons=true&theme=radical" alt="GitHub Streak Stats" height="180px" />
-  </p>
-
-
-  <!-- Language and Commit Stats -->
-<!-- Language and Commit Stats with Percentage -->
-<h3 align="left">GitHub Stats:</h3>
-<p>
-  <!-- Repository Stats -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miyasajid19&theme=github_dark" alt="Repos Per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miyasajid19&theme=github_dark" alt="Most Commit Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miyasajid19&show_icons=true&theme=radical" alt="GitHub Streak Stats" height="180px" />
 
 </p>
 

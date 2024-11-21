@@ -152,7 +152,7 @@
 
 ---
 
-<h2 align="center">💬 Dynamic Quotes 💬</h2>
+<h2 align="center">💬 Quote that resonates 💬</h2>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=30&pause=1000&color=5BFF3E&center=true&vCenter=true&width=1000&height=60&lines=I'm+no+one...+I+don't+want+to+be+anyone.+;I+stepped+into+singularity+to+exist+within+a+void.+;I'm+no+one...+;However%2C+I+am+becoming...+Imagination.+;I+am+grabbing+conception%2C+and+leaving+humanity+behind.+;Humans+have+lost+their+sight%2C+and+;individuality+makes+people+blind+to+the+truth.;+It+makes+people+believe+that+anything+is+possible.+;Only+nothing+is+possible.+;But+then+again%2C+my+words+are+the+words+of+no+one." alt="Typing SVG" /></a></div>

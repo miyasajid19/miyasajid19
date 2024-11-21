@@ -3,8 +3,19 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=miyasajid19&label=Profile%20views&color=0e75b6&style=flat" alt="miyasajid19" /> 
+    <img src="https://img.shields.io/github/followers/miyasajid19?style=social" alt="Followers Badge" />
+    <img src="https://img.shields.io/github/stars/miyasajid19?style=social" alt="Stars Badge" />
+  
 </p>
+<h2 align="center">🌍 Visitor Locations 🌍</h2>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/miyasajid19/count.svg" alt="Visitor Counter" />
+</div>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miyasajid19&theme=react-dark&bg_color=000000&color=00ff00&line=ff0000&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=miyasajid19" alt="miyasajid19" />
@@ -75,12 +86,74 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miyasajid19&show_icons=true&locale=en&layout=compact" alt="miyasajid19" height="200px" />
 </p>
   <h3>inspired by  <a href="https://github.com/SajjanKarn">Sajjan karn</a></h3>-->
+<h2 align="center">🌟 My GitHub Stats 🌟</h2>
 
-<h3 align="left">My GitHub Stats:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miyasajid19&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miyasajid19&show_icons=true&layout=compact&theme=radical" alt="Top Languages" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miyasajid19&show_icons=true&theme=radical" alt="Streak Stats" height="180px" />
+
+  <!-- GitHub Stats -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=miyasajid19&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miyasajid19&show_icons=true&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+  </p>
+
+  <!-- Streak Stats -->
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miyasajid19&show_icons=true&theme=radical" alt="GitHub Streak Stats" height="180px" />
+  </p>
+
+  <!-- Contribution Graph -->
+
+
+  <!-- Language and Commit Stats -->
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miyasajid19&theme=github_dark" alt="Repos Per Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miyasajid19&theme=github_dark" alt="Most Commit Languages" />
+  </p>
+
+
 </div>
-  
+
+---
+
+<h2 align="center">📌 My Top Repositories 📌</h2>
+
+<div align="center">
+
+  <!-- Featured Repositories -->
+  <p>
+    <a href="https://github.com/miyasajid19/Repo-Name-1">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=miyasajid19&repo=PYTHON-PROJECTS&theme=radical" alt="Top Repo 1" />
+    </a>
+    <a href="https://github.com/miyasajid19/Repo-Name-2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=miyasajid19&repo=Flutter-To-Do-List&theme=radical" alt="Top Repo 2" />
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/miyasajid19/Repo-Name-3">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=miyasajid19&repo=Flutter-NotePad&theme=radical" alt="Top Repo 3" />
+    </a>
+    <a href="https://github.com/miyasajid19/Repo-Name-4">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=miyasajid19&repo=C&theme=radical" alt="Top Repo 4" />
+    </a>
+  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B" alt="C++ Badge" />
+  <img src="https://img.shields.io/badge/Code-Python-yellow?style=for-the-badge&logo=python" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML-brightgreen?style=for-the-badge&logo=tensorflow" alt="AI Badge" />
+</p>
+
+
+</div>
+
+---
+
+<h2 align="center">💬 Dynamic Quotes 💬</h2>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&size=22&lines=Keep+coding!;Make+your+dream+projects+real!;" alt="Typing SVG" />
+</div>
+
+---
+
+
   <h3 >Inspired by <a href="https://github.com/SajjanKarn">Sajjan Karn</a></h3>

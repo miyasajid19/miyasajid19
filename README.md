@@ -150,13 +150,13 @@
 
 </div>
 
----
 
+<!--
 <h2 align="center">📌 My Top Repositories 📌</h2>
 
 <div align="center">
 
-  <!-- Featured Repositories -->
+
   <p>
     <a href="https://github.com/miyasajid19/Repo-Name-1">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=miyasajid19&repo=PYTHON-PROJECTS&theme=radical" alt="Top Repo 1" />
@@ -181,6 +181,7 @@
 
 
 </div>
+-->
 
 ---
   

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Myself</h1>
+<h1 align="center">Hi 👋, Myself</h1>
 <h2 align="center">Ana Sajid Miya, Ibn Sabir, Wa Ibn Aasma, Wa Akh Aasif Wa Ajmal.</h2>
 <h3 align="center">A Computer Science and Engineering student from Nepal. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/2560px-Flag_of_Nepal.svg.png" alt="Nepal Flag" width="50" height="50"></h3>
 <div align="center">

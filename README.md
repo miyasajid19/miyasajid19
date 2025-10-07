@@ -92,7 +92,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin: 10px; transition: transform 0.3s ease;"/>
   </a>
-
+  <!-- React --> 
+  <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/react.svg" alt="react" width="50" height="50" style="margin: 10px; transition: transform 0.3s ease;" /> </a>
+</p>
   <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="margin: 10px; transition: transform 0.3s ease;"/>
@@ -114,10 +116,11 @@
   </a>
   
   <!-- Selenium -->
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+<!--  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="50" height="50" style="margin: 10px; transition: transform 0.3s ease;"/>
-  </a> 
-</p>
+  </a> -->
+
+
 
 ---
 

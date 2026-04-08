@@ -68,96 +68,134 @@ sajid = {
   </tr>
 </table>
 
-## Tech Universe
+## Technical Skills
 
 ### Languages
 
+- Primary: Python
+- Others: JavaScript, C++, C, React.js, Node.js, React Native
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
 
-### Web and Frameworks
+### Backend and APIs
+
+- FastAPI
+- Flask
+- Node.js
+- Express.js
+- REST APIs
 
 <p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge" alt="REST APIs" />
 </p>
 
-### AI and Data
+### Frontend
+
+- React.js
+- HTML
+- CSS
 
 <p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/MediaPipe-0F9D58?style=for-the-badge" alt="MediaPipe" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-2E5EAA?style=for-the-badge" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+</p>
+
+### AI / ML / LLM Systems
+
+- LangChain
+- LangGraph
+- Ollama
+- Agent Workflows
+- Tool Calling
+- Scikit-learn
+- TensorFlow
+- PyTorch
+
+<p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Agent_Workflows-0f766e?style=for-the-badge" alt="Agent Workflows" />
+  <img src="https://img.shields.io/badge/Tool_Calling-1d4ed8?style=for-the-badge" alt="Tool Calling" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
 
-### Tools
+### Vector Databases
+
+- FAISS
+- ChromaDB
+- Pinecone
+
+<p>
+  <img src="https://img.shields.io/badge/FAISS-0F172A?style=for-the-badge" alt="FAISS" />
+  <img src="https://img.shields.io/badge/ChromaDB-7c3aed?style=for-the-badge" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Pinecone-16a34a?style=for-the-badge" alt="Pinecone" />
+</p>
+
+### Databases
+
+- SQLite
+- MySQL
+- MongoDB
+
+<p>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+### Cloud and DevOps
+
+- Docker
+- Docker Hub
+- AWS
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Docker_Hub-1D63ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+</p>
+
+### Version Control
+
+- Git
+- GitHub
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" alt="Ollama" />
 </p>
 
-## Learning Trail
+## What I'm Exploring
 
-<table>
-  <tr>
-    <td width="25%" valign="top">
-      <strong>2025</strong><br />
-      Secure Network Configuration<br />
-      Cloud Computing<br />
-      LLM workflow exploration
-    </td>
-    <td width="25%" valign="top">
-      <strong>2024</strong><br />
-      Mobile app development<br />
-      Computer vision learning<br />
-      More Python depth
-    </td>
-    <td width="25%" valign="top">
-      <strong>2023</strong><br />
-      Full-stack web foundations<br />
-      HTML, CSS, JavaScript, PHP, MySQL
-    </td>
-    <td width="25%" valign="top">
-      <strong>2020</strong><br />
-      Microsoft Office Specialist<br />
-      Competition exposure<br />
-      Early discipline
-    </td>
-  </tr>
-</table>
+- Building practical AI systems with `LangChain`, `LangGraph`, and `Ollama`
+- Learning more about `RAG`, `vector databases`, and `agent workflows`
+- Growing in `backend engineering`, `system design`, and `full-stack development`
+- Exploring `TensorFlow` and `PyTorch` for deeper ML and AI work
 
-## Beyond Code
 
-- I speak Nepali, English, Hindi, and Urdu fluently.
-- I can also read Arabic.
-- I enjoy learning by doing, staying curious, and improving steadily.
-- I value clean work, practical thinking, and continuous growth.
 
 ## GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miyasajid19&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyasajid19&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=miyasajid19&theme=tokyonight&hide_border=true" alt="GitHub streak" />

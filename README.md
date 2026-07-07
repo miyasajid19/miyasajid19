@@ -36,7 +36,7 @@ sajid = {
     "name": "Sajid Miya",
     "from": "Gorkha, Gandaki Province, Nepal",
     "role": "Computer Science and Engineering student",
-    "university": "Thapar University, Patiala",
+    "university": "Thapar Institute of Engineering and Technology , Patiala",
     "focus": ["AI engineering", "computer vision", "full-stack web", "LLM workflows"],
     "mindset": "Learn by building, refine through iteration",
     "open_to": ["collaboration", "internships", "meaningful tech conversations"],

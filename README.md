@@ -32,15 +32,13 @@
 ## `whoami`
 
 ```python
-sajid = {
-    "name": "Sajid Miya",
-    "from": "Gorkha, Gandaki Province, Nepal",
-    "role": "Computer Science and Engineering student",
-    "university": "Thapar Institute of Engineering and Technology , Patiala",
-    "focus": ["AI engineering", "computer vision", "full-stack web", "LLM workflows"],
-    "mindset": "Learn by building, refine through iteration",
-    "open_to": ["collaboration", "internships", "meaningful tech conversations"],
-}
+class SajidMiya:
+    def __init__(self):
+        self.origin = "Gorkha, Nepal"
+        self.education = "Thapar Institute of Engineering and Technology, Patiala"
+        self.focus = ["AI Engineering", "Computer Vision", "LLM Workflows", "Backend Systems"]
+        self.motto = "Learn by building, refine through iteration"
+        self.status = "Open to collaboration & internships"
 ```
 
 <table>

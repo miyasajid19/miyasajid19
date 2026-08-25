@@ -207,6 +207,12 @@ class SajidMiya:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=miyasajid19&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
 </p>
 
+### 3D Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/graph?username=miyasajid19&theme=tokyonight" alt="3D contribution graph" />
+</p>
+
 ### Contribution Snake
 
 <p align="center">

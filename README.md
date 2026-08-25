@@ -210,7 +210,7 @@ class SajidMiya:
 ### 3D Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/graph?username=miyasajid19&theme=tokyonight" alt="3D contribution graph" />
+  <img src="https://raw.githubusercontent.com/miyasajid19/miyasajid19/output/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
 </p>
 
 ### Contribution Snake

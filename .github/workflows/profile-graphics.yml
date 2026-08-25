@@ -1,12 +1,9 @@
-name: Generate Snake
+name: Generate Snake and 3D Graph
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
@@ -20,6 +17,17 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: miyasajid19
+
+      - name: Move 3D files into dist
+        run: |
+          mkdir -p dist/profile-3d-contrib
+          mv profile-3d-contrib/*.svg dist/profile-3d-contrib/
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4

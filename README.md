@@ -190,6 +190,10 @@ class SajidMiya:
 
 ## GitHub Analytics
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miyasajid19&theme=radical" alt="GitHub profile contribution summary" />
+</p>   
+
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miyasajid19&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyasajid19&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />

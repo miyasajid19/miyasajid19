@@ -202,7 +202,7 @@ class SajidMiya:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=miyasajid19&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
-
+ 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=miyasajid19&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
 </p>

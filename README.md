@@ -189,38 +189,22 @@ class SajidMiya:
 
 
 ## GitHub Analytics
- 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miyasajid19&theme=radical" alt="GitHub profile contribution summary" />
-</p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miyasajid19&theme=radical" alt="GitHub profile contribution summary" />
+</p>   
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miyasajid19&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyasajid19&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=miyasajid19&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
- 
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=miyasajid19&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
-</p>
-
-### 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/miyasajid19/miyasajid19/output/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
-</p>
-
-### Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miyasajid19/miyasajid19/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miyasajid19/miyasajid19/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/miyasajid19/miyasajid19/output/github-contribution-grid-snake.svg">
-  </picture>
 </p>
 
 ## Connect With Me

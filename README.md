@@ -115,6 +115,7 @@ class SajidMiya:
 
 - LangChain
 - LangGraph
+- FastMCP
 - Ollama
 - Agent Workflows
 - Tool Calling

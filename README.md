@@ -10,9 +10,6 @@
   <a href="https://sajidmiya.tech">
     <img src="https://img.shields.io/badge/Portfolio-sajidmiya.tech-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:me@sajidmiya.tech">
-    <img src="https://img.shields.io/badge/Email-me%40sajidmiya.tech-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="mailto:miyasajid19@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-miyasajid19%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -50,126 +47,8 @@ class SajidMiya:
             "Multi-tenant AI", "Local-first inference", "Speech assessment"
         ]
         self.motto        = "Build runbooks before code. If a system can't be debugged at 2am, it doesn't ship."
-        self.scholarship  = "COMPEX Scholarship — Government of India (EdCIL), 2023–Present"
         self.status       = "Open to AI / LLM engineer roles · India · Nepal · Remote"
 ```
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### About Me
-
-- AI/LLM engineer focused on **agentic systems and RAG pipelines** that survive production.
-- Shipped **four AI products end-to-end** — desktop, web, and MCP — using LangChain/LangGraph, FastAPI, and vector databases.
-- Hands-on with **LLM orchestration**, **AI evaluation** (DeepEval, Ragas), **tool calling**, and **cloud deployment**.
-- Researcher on the **HiPPA** hierarchical pronunciation assessment pipeline (SpeechOcean762 benchmark).
-- I write runbooks before code. Operability is a feature.
-
-    </td>
-    <td width="50%" valign="top">
-
-### Right Now
-
-- Extending **SaviraNous** — a local-first desktop AI tutor with four-tier hierarchical memory and an AI Council.
-- Hardening **NexHire** — the AI-native hiring platform (Layer 1 screening + Layer 2 ranking).
-- Maintaining **commit2connect-mcp** — a FastMCP server exposing GitHub + LinkedIn as tools.
-- Reading and shipping: **Agentic RAG, GraphRAG, RAPTOR, LightRAG, HippoRAG**.
-
-    </td>
-  </tr>
-</table>
-
----
-
-## Featured Projects
-
-### 1. [SaviraNous](https://synapselearn.sajidmiya.tech) — Local-first AI tutor with multi-agent reasoning
-
-A desktop AI learning platform that unifies a **four-tier hierarchical memory**, a **Path Judger** that picks the right processing path per turn, a **hierarchical RAG pipeline** that routes resources before retrieving chunks, and an **AI Council** for dialectical reasoning — entirely on your own machine.
-
-- **Memory tiers:** Active Chat Window · Hippocampus · Prefrontal Cortex (PFC) · Long-Term Memory (LTM)
-- **Path Judger:** routes each turn into one of 13 discrete paths (parametric, vision, web-search, hybrid, deep-search, council, …)
-- **Hierarchical RAG:** PFC selects resources → adaptive `k_alloc` planner → cross-encoder reranker → labelled context construction
-- **AI Council:** parent agent + parallel sub-agents (analytical, evidence_first, sceptical) + supervisory merger, **explicitly invoked**
-- **Personalisation:** per-topic mastery model updated with EMA (α = 0.7) — cold-start defaults so new users get signal on turn one
-- **Local-first:** FastAPI + LangGraph + Ollama; model, data and memory never leave disk unless you turn it on
-- **Labelled eval:** 0.978 faithfulness · 0.990 answer relevancy · 0.945 contextual precision on a 38-item DeepEval benchmark (Static-k verified on BEIR: scifact, fiqa, nfcorpus, musique)
-- **Stack:** Python, FastAPI, LangGraph, PostgreSQL + pgvector, Redis, FAISS, ChromaDB, Ollama, Electron
-
-> Built for students, researchers, and privacy-bound work.
-
----
-
-### 2. [NexHire](https://nexhire.sajidmiya.tech) — The AI-native hiring platform
-
-End-to-end recruitment: post a role, share an apply link, and let the field narrow in real time. **Layer 1** scores every resume against the JD; **Layer 2** puts the shortlisted candidates head-to-head with a written rationale. The recruiter makes the final call.
-
-- **Layer 1 — Resume screening:** every applicant scored against the JD with a tunable threshold; reject / advance / shortlist automatically
-- **Layer 2 — Head-to-head ranking:** pairwise comparison of finalists with written rationale per pick
-- **Drag-and-drop Kanban** — stages, scorecards, bulk actions, no status menus
-- **Structured scorecards** — rubrics replace messy feedback docs; auditable across interviewers
-- **Candidate emails on autopilot** — application received, shortlisted, on hold, declined (per-status templates with live preview)
-- **Integrations** — Google Calendar, Gmail, Slack, Stripe (subscription billing live)
-- **Multi-tenant by design** — every job and applicant scoped to a single company; cross-tenant requests return polite "not found"; master admin audit overview
-- **Anonymised screening mode** — identifying info stripped from text sent to AI; original retained for recruiter; reveal is audit-logged
-- **Stack:** React, FastAPI, PostgreSQL, Redis, Docker, JWT, LangChain, Stripe · PostgreSQL on Aiven, resume files on ImageKit
-- **Tiers:** Free (1 active job, 50 applicants/mo, Ollama-powered) · Pro (unlimited, BYO OpenAI/Anthropic/Ollama, no token markup) · Enterprise (SSO/SAML/SCIM, audit log, 99.9% SLA)
-
-> Three doors that earned the work: seed-to-B, recruiting agencies, enterprise TA.
-
----
-
-### 3. [commit2connect-mcp](https://github.com/miyasajid19) — GitHub & LinkedIn MCP Server
-
-A FastMCP server that exposes GitHub repository management and LinkedIn publishing through a single MCP connection.
-
-- **56 tools · 26 prompts · 4 resources**
-- **Tool annotations, response caching, rate limiting**
-- **Long-running media uploads** supported
-- Wired into **Claude Code** and **Codex**; demonstrated an end-to-end flow from code change → PR merge → LinkedIn announcement
-- **Stack:** Python, FastMCP, `uv`, OAuth 2.0, GitHub REST API, LinkedIn API
-
----
-
-### 4. Portfolio Agent — Local-first AI assistant
-
-A privacy-first AI assistant with **zero external API dependency**, built on a local LLM stack.
-
-- Fully local — zero cloud calls
-- Human-in-the-loop approvals
-- Vision + tool calling
-- Persistent long-term memory
-- **Stack:** FastAPI, LangGraph, Ollama, SQLite
-
----
-
-## Research — HiPPA
-
-**Hierarchical Multi-Granularity Pronunciation Assessment Pipeline** · reference-conditioned on the SpeechOcean762 benchmark.
-
-- **Architecture:** hierarchical transformer over **WavLM** with multi-task learning, cross-attention and CTC-based confidence features, plus a calibration pipeline for scoring reliability.
-- **Levels scored:** phoneme, word, and sentence.
-- **Pipeline shipped:** preprocessing → training → evaluation → report generation → **Streamlit analysis dashboard**.
-- **Headline results (Pearson):**
-  - **0.754** — sentence fluency (+67% vs 0.450 baseline)
-  - **0.737** — sentence prosody
-  - **0.697** — sentence-level total
-- **Trade-off:** phoneme score dropped 0.450 → 0.396 in exchange for three new sentence-level metrics.
-
-> [Read the paper (PDF)](https://ik.imagekit.io/miyasajid19/HiPPA.pdf)
-
----
-
-## Education
-
-| Years | Institution | Program | Score |
-|---|---|---|---|
-| 2023 – 2027 | **Thapar Institute of Engineering and Technology**, Patiala | B.E. Computer Science & Engineering | **CGPA 8.68 / 10** |
-| 2021 – 2023 | **St. Xavier's College**, Maitighar, Kathmandu | School Leaving Certificate (SLC) | GPA 3.66 / 4 |
-| 2021 | **The Old Capital Secondary School**, Raniban, Gorkha | Secondary Education Examination (SEE) | GPA 3.95 / 4 |
-
-**COMPEX Scholarship** — Government of India (EdCIL), 2023 – present. Merit scholarship for Nepalese students in India; covers full tuition and hostel at Thapar.
 
 ---
 
@@ -298,6 +177,85 @@ A privacy-first AI assistant with **zero external API dependency**, built on a l
 
 ---
 
+## Featured Projects
+
+### 1. [SaviraNous](https://synapselearn.sajidmiya.tech) — Local-first AI tutor with multi-agent reasoning
+
+A desktop AI learning platform that unifies a **four-tier hierarchical memory**, a **Path Judger** that picks the right processing path per turn, a **hierarchical RAG pipeline** that routes resources before retrieving chunks, and an **AI Council** for dialectical reasoning — entirely on your own machine.
+
+- **Memory tiers:** Active Chat Window · Hippocampus · Prefrontal Cortex (PFC) · Long-Term Memory (LTM)
+- **Path Judger:** routes each turn into one of 13 discrete paths (parametric, vision, web-search, hybrid, deep-search, council, …)
+- **Hierarchical RAG:** PFC selects resources → adaptive `k_alloc` planner → cross-encoder reranker → labelled context construction
+- **AI Council:** parent agent + parallel sub-agents (analytical, evidence_first, sceptical) + supervisory merger, **explicitly invoked**
+- **Personalisation:** per-topic mastery model updated with EMA (α = 0.7) — cold-start defaults so new users get signal on turn one
+- **Local-first:** FastAPI + LangGraph + Ollama; model, data and memory never leave disk unless you turn it on
+- **Labelled eval:** 0.978 faithfulness · 0.990 answer relevancy · 0.945 contextual precision on a 38-item DeepEval benchmark (Static-k verified on BEIR: scifact, fiqa, nfcorpus, musique)
+- **Stack:** Python, FastAPI, LangGraph, PostgreSQL + pgvector, Redis, FAISS, ChromaDB, Ollama, Electron
+
+> Built for students, researchers, and privacy-bound work.
+
+---
+
+### 2. [NexHire](https://nexhire.sajidmiya.tech) — The AI-native hiring platform
+
+End-to-end recruitment: post a role, share an apply link, and let the field narrow in real time. **Layer 1** scores every resume against the JD; **Layer 2** puts the shortlisted candidates head-to-head with a written rationale. The recruiter makes the final call.
+
+- **Layer 1 — Resume screening:** every applicant scored against the JD with a tunable threshold; reject / advance / shortlist automatically
+- **Layer 2 — Head-to-head ranking:** pairwise comparison of finalists with written rationale per pick
+- **Drag-and-drop Kanban** — stages, scorecards, bulk actions, no status menus
+- **Structured scorecards** — rubrics replace messy feedback docs; auditable across interviewers
+- **Candidate emails on autopilot** — application received, shortlisted, on hold, declined (per-status templates with live preview)
+- **Integrations** — Google Calendar, Gmail, Slack, Stripe (subscription billing live)
+- **Multi-tenant by design** — every job and applicant scoped to a single company; cross-tenant requests return polite "not found"; master admin audit overview
+- **Anonymised screening mode** — identifying info stripped from text sent to AI; original retained for recruiter; reveal is audit-logged
+- **Stack:** React, FastAPI, PostgreSQL, Redis, Docker, JWT, LangChain, Stripe · PostgreSQL on Aiven, resume files on ImageKit
+- **Tiers:** Free (1 active job, 50 applicants/mo, Ollama-powered) · Pro (unlimited, BYO OpenAI/Anthropic/Ollama, no token markup) · Enterprise (SSO/SAML/SCIM, audit log, 99.9% SLA)
+
+> Three doors that earned the work: seed-to-B, recruiting agencies, enterprise TA.
+
+---
+
+### 3. [commit2connect-mcp](https://github.com/miyasajid19) — GitHub & LinkedIn MCP Server
+
+A FastMCP server that exposes GitHub repository management and LinkedIn publishing through a single MCP connection.
+
+- **56 tools · 26 prompts · 4 resources**
+- **Tool annotations, response caching, rate limiting**
+- **Long-running media uploads** supported
+- Wired into **Claude Code** and **Codex**; demonstrated an end-to-end flow from code change → PR merge → LinkedIn announcement
+- **Stack:** Python, FastMCP, `uv`, OAuth 2.0, GitHub REST API, LinkedIn API
+
+---
+
+### 4. Portfolio Agent — Local-first AI assistant
+
+A privacy-first AI assistant with **zero external API dependency**, built on a local LLM stack.
+
+- Fully local — zero cloud calls
+- Human-in-the-loop approvals
+- Vision + tool calling
+- Persistent long-term memory
+- **Stack:** FastAPI, LangGraph, Ollama, SQLite
+
+---
+
+## Research — HiPPA
+
+**Hierarchical Multi-Granularity Pronunciation Assessment Pipeline** · reference-conditioned on the SpeechOcean762 benchmark.
+
+- **Architecture:** hierarchical transformer over **WavLM** with multi-task learning, cross-attention and CTC-based confidence features, plus a calibration pipeline for scoring reliability.
+- **Levels scored:** phoneme, word, and sentence.
+- **Pipeline shipped:** preprocessing → training → evaluation → report generation → **Streamlit analysis dashboard**.
+- **Headline results (Pearson):**
+  - **0.754** — sentence fluency (+67% vs 0.450 baseline)
+  - **0.737** — sentence prosody
+  - **0.697** — sentence-level total
+- **Trade-off:** phoneme score dropped 0.450 → 0.396 in exchange for three new sentence-level metrics.
+
+> [Read the paper (PDF)](https://ik.imagekit.io/miyasajid19/HiPPA.pdf)
+
+---
+
 ## What I'm Exploring
 
 - Shipping **agentic systems** end-to-end with LangGraph, Deep Agents and MCP.
@@ -305,13 +263,6 @@ A privacy-first AI assistant with **zero external API dependency**, built on a l
 - Productionising **LLM eval** with DeepEval and Ragas — eval before code, not after.
 - **Local-first inference** so prompts, memory and material never leave a workstation.
 - **Multi-tenant data isolation** at the query layer for AI products.
-
----
-
-## Achievements
-
-- **COMPEX Scholarship** — Government of India (EdCIL), 2023 – Present. Full tuition + hostel at Thapar.
-- **HiPPA** — hierarchical pronunciation assessment pipeline, SpeechOcean762 benchmark: **0.754** sentence-fluency Pearson (+67% over baseline).
 
 ---
 
@@ -352,9 +303,6 @@ A privacy-first AI assistant with **zero external API dependency**, built on a l
 <p align="center">
   <a href="https://www.linkedin.com/in/sajidmiya/">
     <img src="https://img.shields.io/badge/LinkedIn-Lets%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:me@sajidmiya.tech">
-    <img src="https://img.shields.io/badge/Email-Work%20inquiries-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://sajidmiya.tech">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20site-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />

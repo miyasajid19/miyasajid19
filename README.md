@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0891b2,100:22c55e&height=230&section=header&text=Sajid%20Miya&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Agentic%20systems%20%26%20RAG%20pipelines%20that%20survive%20production&descAlignY=58" alt="Sajid Miya banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0891b2,100:22c55e&height=230&section=header&text=Sajid%20Miya&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%2FLLM%20Engineer%20%7C%20Agentic%20Systems%2C%20RAG%2C%20Multi%2Dtenant%20AI&descAlignY=58&fontAlign=50" alt="Sajid Miya banner" />
 </p>
 
 <p align="center">

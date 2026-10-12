@@ -46,7 +46,6 @@ class SajidMiya:
             "GraphRAG / Self-RAG / Corrective RAG",
             "Multi-tenant AI", "Local-first inference", "Speech assessment"
         ]
-        self.motto        = "Build runbooks before code. If a system can't be debugged at 2am, it doesn't ship."
 ```
 
 ---

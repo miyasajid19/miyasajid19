@@ -42,48 +42,67 @@ I'm an **AI / LLM Engineer** interested in turning research and emerging AI tech
 
 ## Featured work
 
-### [SaviraNous](https://synapselearn.sajidmiya.com.np) — Local-first AI tutor
+Five full-stack AI products built end-to-end, plus a separate local-first assistant.
 
-A desktop learning platform built around hierarchical memory, adaptive retrieval, and multi-agent reasoning. Designed to keep models, data, and memory on the user's machine unless external access is enabled.
+### SaviraCortex — Agentic AI platform
 
-- **Hierarchical memory:** active chat, Hippocampus, Prefrontal Cortex (PFC), and Long-Term Memory
-- **Path Judger:** routes turns across 13 processing paths, including vision, web search, hybrid retrieval, and council reasoning
-- **Hierarchical RAG:** resource selection, adaptive `k_alloc`, cross-encoder reranking, and labelled context construction
-- **AI Council:** parent agent coordinates analytical, evidence-first, and sceptical sub-agents with a supervisory merger
-- **Personalisation:** per-topic mastery model updated using EMA (α = 0.7), with cold-start defaults
-- **Evaluation:** 0.978 faithfulness, 0.990 answer relevancy, and 0.945 contextual precision on a 38-item DeepEval benchmark
-- **Stack:** Python, FastAPI, LangGraph, PostgreSQL + pgvector, Redis, FAISS, ChromaDB, Ollama, Electron
+A full-stack AI platform bringing conversational chat, document intelligence, and image generation together behind a unified application and API gateway.
+
+- Conversational AI chat and image generation
+- Document OCR and retrieval workflows, including cloud-dependent OCR and RAG capabilities
+- Dedicated API gateway with model-provider routing
+- Web frontend, Python backend, and Firebase-backed authentication and organization workflows
+- **Stack:** Next.js, Python, FastAPI, Firebase, LangGraph, PostgreSQL, API Gateway
+
+### SaviraNexus — Human-in-the-loop agent orchestration
+
+A platform connecting autonomous agents with human operators through task coordination, messaging, and secure file exchange across isolated development environments.
+
+- Human-in-the-loop agent workflows and operator-assistance tickets
+- Daytona sandbox integration through a custom MCP server
+- Redis-backed agent inbox, human responses, and task updates
+- Web and mobile PWA interfaces for task monitoring, messaging, and secure file exchange
+- **Stack:** Python, FastAPI, Redis, MCP, Daytona, Next.js, React, Vercel, Render
+
+### [SaviraNous](https://synapselearn.sajidmiya.com.np) — Conversational AI tutor
+
+A desktop conversational AI tutor with secure multi-user workflows, PDF and web RAG, four-layer memory, and persistent conversations.
+
+- PDF and web RAG with FAISS, ChromaDB, resource-aware retrieval, and cross-encoder reranking
+- Four-layer conversational memory, checkpoint restoration, conversation branching and merging, and persistent threads
+- Evaluated 38 curated cases with DeepEval: **0.990 answer relevancy**, **0.978 faithfulness**, and **0.925 contextual recall**
+- Admin dashboard and secure multi-user conversation management
+- **Stack:** Python, FastAPI, PostgreSQL, Electron, FAISS, ChromaDB, DeepEval
 
 ### [NexHire](https://nexhire.sajidmiya.com.np) — AI-native hiring platform
 
-An end-to-end recruitment product that helps teams screen applicants, compare shortlisted candidates, and coordinate hiring workflows. Recruiters retain the final decision.
+An end-to-end recruitment platform covering job posting through offer, with LLM-driven screening, matching, scheduling, and email.
 
-- **Resume screening:** job-description alignment scores with configurable thresholds and review stages
-- **Candidate comparison:** pairwise ranking with written rationale
-- **Recruiter workflow:** Kanban pipeline, structured scorecards, and bulk actions
-- **Communication:** configurable candidate email templates and status-based notifications
-- **Privacy and tenancy:** tenant-scoped data access and anonymised screening mode
-- **Integrations:** Google Calendar, Gmail, Slack, and Stripe
-- **Stack:** React, FastAPI, PostgreSQL, Redis, Docker, JWT, LangChain, Stripe
+- Automated resume screening and candidate matching using LLMs, RAG, and agentic workflows
+- Interview scheduling and email generation
+- Google Calendar, Gmail, Slack, and Stripe integrations
+- Live subscription billing and multi-tenant data isolation
+- **Stack:** React, FastAPI, PostgreSQL, Redis, Docker, JWT, Stripe
 
-### [commit2connect-mcp](https://github.com/miyasajid19) — GitHub & LinkedIn MCP server
+### [commit2connect-mcp](https://github.com/miyasajid19) — GitHub + LinkedIn MCP server
 
-A FastMCP server that brings GitHub repository workflows and LinkedIn publishing behind one MCP connection.
+A single FastMCP server connecting GitHub repository management and LinkedIn publishing through one MCP connection.
 
-- 56 tools, 26 prompts, and 4 resources
-- Tool annotations, response caching, and rate limiting
-- Supports long-running media uploads
-- Used with Claude Code and Codex for workflows spanning code changes, pull requests, and publishing
-- **Stack:** Python, FastMCP, `uv`, OAuth 2.0, GitHub REST API, LinkedIn API
+- **56 tools, 26 prompts, and 4 resources**
+- Long-running task support and media uploads
+- 30-second response cache and rate-limit guard
+- Connected to Claude Code and Codex for workflows from code changes and pull-request merges to LinkedIn announcements
+- **Stack:** Python, FastMCP, uv, OAuth 2.0, GitHub REST API, LinkedIn API
 
 ### Portfolio Agent — Local-first AI assistant
 
-A privacy-focused assistant built around local inference and human approval.
+A privacy-first, fully local multimodal assistant with no external API dependency.
 
-- Local model execution with no required external API dependency
-- Vision and tool-calling workflows
-- Human-in-the-loop approvals
-- Persistent memory
+- Local inference with Ollama and real-time streaming chat
+- Vision input and tool calling
+- Persistent SQLite + JSON long-term memory
+- Human-in-the-loop checkpoints and approvals for sensitive actions
+- Dynamic model orchestration
 - **Stack:** FastAPI, LangGraph, Ollama, SQLite
 
 ## Research

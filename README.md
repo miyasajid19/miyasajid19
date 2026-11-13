@@ -44,15 +44,19 @@ I'm an **AI / LLM Engineer** interested in turning research and emerging AI tech
 
 Five full-stack AI products built end-to-end, plus a separate local-first assistant.
 
-### SaviraCortex — Agentic AI platform
+### SaviraCortex — Evidence-aware agentic AI platform
 
-A full-stack AI platform bringing conversational chat, document intelligence, and image generation together behind a unified application and API gateway.
+A full-stack AI platform for conversational AI, document intelligence, and image generation, with an evidence-aware RAG pipeline designed to retrieve, validate, and organize supporting information before generation.
 
-- Conversational AI chat and image generation
+- Conversational AI chat and image generation through a unified application
 - Document OCR and retrieval workflows, including cloud-dependent OCR and RAG capabilities
-- Dedicated API gateway with model-provider routing
-- Web frontend, Python backend, and Firebase-backed authentication and organization workflows
-- **Stack:** Next.js, Python, FastAPI, Firebase, LangGraph, PostgreSQL, API Gateway
+- Hybrid retrieval combining dense embeddings with Qdrant and BM25, followed by result fusion and reranking
+- LangGraph-coordinated retrieval evaluation: checks evidence sufficiency, adaptively adjusts top-k, excludes weak chunks, and can expand retrieval for up to three attempts
+- Accumulates and deduplicates evidence across attempts, then compresses context when it exceeds 15 unique documents
+- Preserves chunk IDs, document order, metadata, and provenance; hypothetical answers are used only to guide retrieval, never as factual evidence or citations
+- Dedicated API gateway with model-provider routing, plus Firebase-backed authentication and organization workflows
+- **Quality:** 393 passing tests reported for the RAG pipeline
+- **Stack:** Python, Next.js, FastAPI, Firebase, LangGraph, Qdrant, BM25, PostgreSQL, API Gateway
 
 ### SaviraNexus — Human-in-the-loop agent orchestration
 
